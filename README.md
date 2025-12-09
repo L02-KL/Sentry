@@ -22,7 +22,7 @@ Sentry.init({
 
 # Experiment with this repository
 
-Update the value of `organization` and `project` in `app.json` file.
+First, update the `organization` and `project` values in the `app.json` file.
 ```json
 [
   "@sentry/react-native/expo",
@@ -34,7 +34,7 @@ Update the value of `organization` and `project` in `app.json` file.
 ]
 ```
 
-Update the value of `dsn` in `app/_layout.tsx` file.
+Next, update the `dsn` value in the `app/_layout.tsx` file.
 
 ```js
 // Init Sentry
