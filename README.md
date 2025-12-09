@@ -1,1 +1,3 @@
-<img width="729" height="558" alt="image" src="https://github.com/user-attachments/assets/8bb6c348-2f4a-4d45-971c-92faaaa952a4" />
+<img width="878" height="318" alt="image" src="https://github.com/user-attachments/assets/832e059f-bb6f-4694-bca5-99e3e9fe728e" />
+
+Mọi người cập nhật sentryDsn thành link tới project trên Sentry của mọi người.
