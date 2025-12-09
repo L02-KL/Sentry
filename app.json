@@ -52,9 +52,6 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    },
-    "extra": {
-      "sentryDsn": "https://3fca1f7d84c2cec02fffd9efe78d33ee@o4510500120625152.ingest.de.sentry.io/4510500141006928"
     }
   }
 }
