@@ -1,3 +1,10 @@
-<img width="878" height="318" alt="image" src="https://github.com/user-attachments/assets/832e059f-bb6f-4694-bca5-99e3e9fe728e" />
+# Run the wizard
 
-Mọi người cập nhật sentryDsn (Client Keys (DSN) trong project setting), organization và project trong app.json thành link tới project trên Sentry của mọi người.
+Run the following command and proceed with the on-screen instructions:
+
+```bash
+npx @sentry/wizard@latest -i reactNative --saas --org <org-name> --project <sentry-project-name>
+```
+
+> [!note]
+>  Change `org-name` and `sentry-project-name` with your own values.
